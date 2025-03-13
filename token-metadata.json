@@ -1,0 +1,10 @@
+{
+  "name": "Beetz Staked Sonic",
+  "symbol": "BEETZ",
+  "decimals": 9,
+  "description": "A meme-powered liquidity staking experience.",
+  "image": "https://beets.fi/logo.png",
+  "extensions": {
+    "website": "https://beets.fi/"
+  }
+}
